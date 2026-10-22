@@ -1,0 +1,2 @@
+# No third-party packages are needed.
+# The simulator only uses Tkinter, which comes with the standard Python installer for Windows.
